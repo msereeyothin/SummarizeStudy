@@ -1,0 +1,11 @@
+This is an ::: example of a question. false
+
+[[this isn't an ::: example of a question. true]]
+[[this isn't an ::: example of a question. false
+this isn't an ::: example of a question. false]]
+
+This is an ::: example of a question. true
+
+This isn't an example of a question. true
+This isn't an example of a question.
+:::
